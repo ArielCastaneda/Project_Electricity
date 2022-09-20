@@ -11,8 +11,8 @@ Las herramientas aplicadas para este estudio son python aplicamos librerias pand
 # Contenido
 En la carpeta Notebooks están los  archivos que se usaron para el trabajo en python:
 
-src.py: Archivo con las funciones usadas para la limpieza y transformacion de datos
+`src.py`: Archivo con las funciones usadas para la limpieza y transformacion de datos
 
-Final_Proyecto2.ipynb: Notebook con el analisis y la aplicacion de las funciones de python.
+`Final_Proyecto2.ipynb`: Notebook con el analisis y la aplicacion de las funciones de python.
 
-Final_Proyecto2.ppt donde contiene la presentación de este proyecto.
+`Final_Proyecto2.ppt`: donde contiene la presentación de este proyecto.
